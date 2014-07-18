@@ -8,7 +8,6 @@
     <owners>Jonatan Pedersen</owners>
     <licenseUrl>https://github.com/Bocami/validation/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/Bocami/validation</projectUrl>
-    <iconUrl>http://nuget.bocami.com/package/$id$</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Validation</description>
     <copyright>Copyright 2014</copyright>
