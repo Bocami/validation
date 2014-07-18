@@ -6,11 +6,11 @@
     <title>Validation</title>
     <authors>Jonatan Pedersen</authors>
     <owners>Jonatan Pedersen</owners>
-    <licenseUrl>http://nuget.bocami.com/package/$id$</licenseUrl>
-    <projectUrl>http://nuget.bocami.com/package/$id$</projectUrl>
+    <licenseUrl>https://github.com/Bocami/validation/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Bocami/validation</projectUrl>
     <iconUrl>http://nuget.bocami.com/package/$id$</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Validation Reference Implementation</description>
+    <description>Validation</description>
     <copyright>Copyright 2014</copyright>
   </metadata>
 </package>
