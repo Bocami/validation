@@ -1,7 +1,6 @@
 ﻿namespace Bocami.Practices.Validation
 {
-    public interface IValidator<T> 
-        where T : class
+    public interface IValidator<in T>
     {
         void Validate(T t);
     }
